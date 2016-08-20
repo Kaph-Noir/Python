@@ -1,0 +1,23 @@
+== python 수단 == 
+python2/3
+=== web ===
+
+codecademy
+wikidocs
+Learn hardway to Python
+공식문서
+한양대 철학하던 사람들 추천 파이썬?
+
+또?
+
+=== book ===
+
+head first 2가지
+열혈 강의
+뇌자파이썬
+파이썬 프로그래밍
+
+== C/C++ 수단 ==
+
+
+effective C++
